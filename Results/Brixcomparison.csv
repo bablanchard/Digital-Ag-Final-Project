@@ -1,0 +1,4 @@
+Model 1,Model 2,t-statistic,p-value
+Neural Network,Linear Regression,2.9735269933275137,3.01e-03
+Neural Network,Random Forest,5.418784021849105,8.57e-08
+Linear Regression,Random Forest,9.957744679668048,7.63e-05
